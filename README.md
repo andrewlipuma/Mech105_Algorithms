@@ -1,6 +1,6 @@
 # Mech105_Algorithms
 
-This page contains all of the algorithms I wrote during Mech 105 in my freshman semester of my undergraduate at Colorado State University. Each file contains a short description of the purpose and how each algorithm works. The algorithms inclue:
+This page contains all of the algorithms I wrote during Mech 105 in my freshman semester of my undergraduate at Colorado State University. Each file contains a short description of the purpose, inputs, and outputs of the algorithm. The algorithms inclue:
 
 * Simpson is an algorithm that uses Simpson's 1/3 Rule to estimate integrals
 * falsePosition is a root finding algorithm that uses false position to find the root of a function
